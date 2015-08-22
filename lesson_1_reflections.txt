@@ -1,0 +1,20 @@
+Using diff make the process of finding differences between files much faster.
+
+You can go back to earlier versions with better code, or find where mistakes were made when improving the code base.
+
+What are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: Improved logic of when to make commits.
+Cons: Get out of the flow of writing code. May forget to commit changes.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because documents written in word processing software are usually not interrelated like coding files.
+
+How can you use the commands git log and git diff to view the history of files?
+git log will show you each commit with a comment line.
+git diff will compare two different files to show the differences between them so you can figure out exactly what changed.
+
+How might using version control make you more confident to make changes that could break something?
+It allows you to go back to prior versions and figure out where the break occurred and what specific lines caused the breakage.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+My coding projects with Python in order to better document changes and have a more efficient and robust version control methodology.

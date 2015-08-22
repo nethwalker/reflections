@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a hidden .git folder with the metadata to store. This needs to be done to set up the git repository on the local machine.
