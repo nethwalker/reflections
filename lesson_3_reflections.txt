@@ -19,3 +19,9 @@ you access.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 You can see changes and merge offline.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+Email and documents on the server. There would be less overhead in terms of
+branching and merging, but it would be harder to recover a damaged or broken
+file.
